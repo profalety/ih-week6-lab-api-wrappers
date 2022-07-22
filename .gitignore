@@ -1,4 +1,4 @@
-.secrets.txt
-./assets/secrets.txt
-./SpotifyAudioFeaturesApril2019.csv
-./spotifyfeatures
+/secrets.txt
+/SpotifyAudioFeaturesApril2019.csv
+/spotifyfeatures:csv
+.cache
